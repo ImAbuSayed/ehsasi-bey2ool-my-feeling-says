@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ehsasi Bey2ool – My feeling says... |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ehsasi-bey2ool-my-feeling-says/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
