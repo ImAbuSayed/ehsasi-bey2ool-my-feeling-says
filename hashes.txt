@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ehsasi Bey2ool – My feeling says...
+
+This log tracks the cryptographic history and versioning for the song **Ehsasi Bey2ool – My feeling says...** (ehsasi-bey2ool-my-feeling-says).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:14:36.510965 | `v1` | `078e77161170df3f8ef047a17a48f78f13d93e9221e17c28277846ab86bb3407` | `4496fa91e896eba9470c2cee67ab32a21baa0d7636472ef0dce9b613d1259ae0` | `2026-05-09_ehsasi-bey2ool-my-feeling-says-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
